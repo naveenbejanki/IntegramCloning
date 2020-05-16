@@ -1,0 +1,2 @@
+rootProject.name='IntegramCloning'
+include ':app'
